@@ -27,7 +27,7 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/feb-dain" target="_blank">
+      <a href="https://github.com/guridaek" target="_blank">
         가람(이강산)
       </a>
     </td>
